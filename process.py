@@ -14,20 +14,20 @@ def checkExistence(companies, country):
                 details = company_info[1].split('. ')
                 user_prompt = f"Do you know this company {name}? Answer in one word"
                 extraction_query = \
-                    client.chat.completions.create(model="gpt-4", messages=[{"role": "user", "content": user_prompt}],
+                    client.chat.completions.create(model="gpt-3.5-turbo", messages=[{"role": "user", "content": user_prompt}],
                                                    max_tokens=300).choices[0].message.content
                 print("Query 1: ", extraction_query)
                 if (extraction_query == "Yes." or extraction_query == "Yes"):
                     user_prompt = f"Is {name} company related to the medical field?? Answer in one word"
                     extraction_query = \
-                        client.chat.completions.create(model="gpt-4",
+                        client.chat.completions.create(model="gpt-3.5-turbo",
                                                        messages=[{"role": "user", "content": user_prompt}],
                                                        max_tokens=300).choices[0].message.content
                     print("Query 2: ", extraction_query)
                     if (extraction_query == "Yes." or extraction_query == "Yes"):
                         user_prompt = f"Is the {name} company based in {country}? Answer in one word"
                         extraction_query = \
-                            client.chat.completions.create(model="gpt-4",
+                            client.chat.completions.create(model="gpt-3.5-turbo",
                                                            messages=[{"role": "user", "content": user_prompt}],
                                                            max_tokens=300).choices[0].message.content
                         print("Query 3: ", extraction_query)
@@ -74,7 +74,7 @@ def process_input(file_path, country):
 
         while True:
             extraction_query = \
-            client.chat.completions.create(model="gpt-4", messages=[{"role": "user", "content": user_prompt}],
+            client.chat.completions.create(model="gpt-3.5-turbo", messages=[{"role": "user", "content": user_prompt}],
                                            max_tokens=300).choices[0].message.content
 
             print("I am", extraction_query)
@@ -137,7 +137,7 @@ def process_excel(file_path):
         user_prompt = f"You have {companies}. It is a companies with description. You need to find 5 new companies similar to the ones I provided. Also provide a official site of these new companies and country of foundation. Here an example of your output: {example}. Just don't wrap your answer in extra quotes. You need to find companies that are not here: {existing_companies}. And don’t think that you can provide a company that is on this list simply by changing the company name. Make description in one sentence. Replace all periods in the description sentence with a comma, not counting the end of the sentence. Display information about each company separating them '\\n\\n'. If you don’t know more companies, don’t lie. No need to invent companies."
 
         extraction_query = \
-        client.chat.completions.create(model="gpt-4", messages=[{"role": "user", "content": user_prompt}],
+        client.chat.completions.create(model="gpt-3.5-turbo", messages=[{"role": "user", "content": user_prompt}],
                                        max_tokens=300).choices[0].message.content
         print("I am", extraction_query)
 
