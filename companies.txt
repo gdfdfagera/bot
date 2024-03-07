@@ -23,37 +23,175 @@ McKesson Medical-Surgical
 TruCorp
 One Beat Medical
 QuadMed
-7-Sigma (7S³)
-SIMBODIES
-DiaMedical USA
-MediTech Solutions GmbH
-HealthEquip Distributors Ltd.
-SimuCare Pro Inc.Company Name
-Electronic Arts IncHenry Schein
-Medline Industries
-Cardinal Health
-Thermo Fisher Scientific
-GE Healthcare
+Stryker
+Draeger
+Boston Scientific
+Becton, Dickinson and Company
+Siemens Healthcare
 Medtronic
 Johnson & Johnson
-Siemens Healthineers
-Stryker
-Becton, Dickinson and Company
-Mediquip Global
-Aplus Medical Equipment
-GPC Medical Limited
-Device Technologies Australia
-Draeger Medical
-Boston Scientific
-Philips Healthcare
-Olympus Medical Systems
-Zipline
-One Medical
-Babylon Health
-Moderna
-Mindstrong
-MedaPhor
-B-Line Medical
+PT
+Canvys
+EcoMed
+Tokopedia
+GO-JEK
+Bukalapak
+OVO
+JD.ID
+AYO Indonesia
+PT Surgika Alkesindo
+PT Oasis Amirah Sejahtera
+PT Lohaco Medika Indonesia
+PT Prodia DiaCRO Laboratories
+PT Bintang Alkes
 Laerdal Medical
-Gaumard Scientific
-Operative Experience
+Welch Allyn
+Epic Systems Corporation
+Henry Schein Medical
+Smith & Nephew
+Abbott
+PT Mustika Medika Jaya
+PT Sarana Maju Sejahtera
+Alumina Group
+PT Tigaraksa Satria, Tbk
+PT Diagnos Utama Medika
+PT Surgident Medika
+PT Multipharma Teknik Indonesia
+MedaPhor
+CAE Healthcare
+Voxel-Man
+Dassault Systèmes
+NxStage Medical Incorporated
+Progressive Medical, Inc
+PT Andini Sarana
+PT Citra Medika Lestari
+PT Surya Esa Hospital Supplies
+PT Surgiprof Medika Indonesia
+PT Armila Medika Utama
+PT Accesia
+PT Bio Farma
+PT Kimia Farma Tbk
+PT Sanbe Farma
+PT Indo Pharma
+PT BioIntisari Indonesia
+PT Dharma Polimetal
+Cardinal Health
+PT Duta Abadi Primantara
+PT Bio Medika Indonesia
+PT Indonusa Telemedia
+PT Sumber Utama Medicalindo
+PT Trieka Aimex
+PT Nusantara Almazia
+PT Total Health
+Philips
+General Electric (GE) Healthcare
+3M Health Care
+Baxter International Inc
+Novartis International AG
+PT Synnex Metrodata Indonesia
+PT Bina Antarbudaya
+PT Pertani
+PT Adika Bahtera Perkasa
+PT HM Sampoerna Tbk
+PT Telkom Indonesia
+Medcom Tech
+CHUEN AN Machinery
+Al Sahel Medical Supplies & Equipment
+Omega Healthcare
+AUDICA sp
+IDS Medical Systems Group
+'Renishaw'
+'Domico Med-Device'
+'Argon Medical Devices'
+Biocad
+R-Pharm
+Evalar
+Protek Group
+Pharmasyntez
+Pharmstandard
+GE Healthcare
+Siemens Healthineers
+Medline Industries, Inc
+Terumo Corporation
+Fresenius Medical Care
+Nanolek
+Geropharm
+Rostec
+BIOSCAD
+Qiagen
+AstraZeneca
+PT Unilever Indonesia Tbk
+Praxis
+PT Prodia Widyahusada Tbk
+PT Astra Otoparts Tbk
+PT Indofood Sukses Makmur Tbk
+Varian Medical Systems
+Zoll Medical Corporation
+Hill-Rom Holdings, Inc.
+Hologic, Inc.
+Sonosite, Inc.
+Yandex
+Sberbank
+Gazprom
+Lukoil
+Rosneft
+Rostelecom
+Olympus Corporation
+Fresenius SE & Co
+Coloplast A/S
+Agilent Technologies
+Hologic Inc.
+BIOCAD
+Technopolis "Moscow"
+Micran
+Medtekhnika
+Human Stem Cells Institute
+PT Borneo Medika Pratama
+PT Maju Mundur Tama
+PT Aesculap International
+PT Dupont Medical
+BioTek Instruments
+Tecan Group Ltd
+AccuVein Inc.
+Phoenix Medical Systems
+Physio-Control Inc
+Tanadent
+BioDigital
+Osso VR
+Simbionix
+Surgical Science
+KARL STORZ GmbH & Co
+Medartis
+VITRONIC
+Hocoma
+Medis
+Synaptive Medical
+Limbs & Things
+Sectra Medical Systems
+EKF Diagnostics
+SonoSim, Inc.
+ZOLL Medical Corporation
+Carestream Health
+ImmersiveTouch
+CME America
+Simulab Corporation
+PT Indofarma (Persero) Tbk
+PT Konimex Pharmaceutical Laboratories
+PT Siemens Indonesia
+PT Medion Farma Jaya
+PT Kalbe Farma Tbk
+PT Prodia Clinical Laboratory
+PT Dexa Medica
+PT Sarana Meditama Metropolitan Tbk
+PT Bio Farma (Persero)
+PT Pyridam Farma Tbk
+PT Interbat
+PT Medtronic Indonesia
+PT Otsuka Indonesia
+PT Siemens Healthineers Indonesia
+PT Phapros Tbk
+PT Widatra Bhakti
+PT Berca Niaga Medika
+PT Anugrah Argon Medica
+PT Dharma Medipro
+PT Dutamedika
